@@ -61,16 +61,18 @@ To create a 3Dmodel from the given isometric drawing using fusion 360 tool.
  ### STEP-10: Select the Sketch Plane
    Select the TOP SURFACE OF RECTANGLE.
    
- ### STEP-11: Create a line
-	1.Select Line command.
-	2. Draw the projections in the diagram 
-	3. Click Finish Sketch.
-	4. extrude the sketch.
+ ### STEP-11: 
+ 1.Create a line
+ 2. Draw the projections in the diagram 
+ 3. Click Finish Sketch.
+ 4. extrude the sketch.
 
 ## INPUT
 ![image](https://user-images.githubusercontent.com/113594316/198495472-9a69edb1-f0c6-470c-b9ae-fe282fa6a678.png)
 
 ## OUTPUT
+<img width="1018" height="722" alt="image" src="https://github.com/user-attachments/assets/6f8ac25b-a6c0-4f3e-ba3f-06c2db28022d" />
+
 
 ## RESULT: 
  Thus, the 3D model is created from given isometric drawing.
